@@ -17,6 +17,9 @@ The error-related negativity (ERN), and event-related potential (ERP) associated
 ## Roadmap
 **Release:** Q1 2022
 
+**NCUR Poster Presentation:** 4/6/2022
+
+**TBD Paper**
 
 
 ## Contents
@@ -35,10 +38,7 @@ This `main` branch contains completed releases for this project. For all work-in
 | George Buzzell | Principal Investigator |
 | Sarah Malykke | Project Lead |
 | Olivia Stibolt | PhD Student |
-| Ian Cespedes | Junior Research Assistant |
-| Will Padua Jimenez | Junior Research Assistant |
-| Ada Chow | Junior Research Assistant |
-| Lauren Weber | Junior Research Assistant |
+
 
 
 Learn more about us [here](https://www.ndclab.com/people).
